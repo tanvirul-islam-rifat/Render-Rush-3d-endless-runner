@@ -6,7 +6,6 @@ A **3D OpenGL endless runner** built with **Python + PyOpenGL (GLU / GLUT)**. Yo
 ## Team Members
 
 | Name | Student ID |
-|---|---|
 | **Md. Tanvirul Islam Rifat** | **22101311** |
 | Fahim Rahman |  |
 | Istiak Al Imran | 22301040 |
