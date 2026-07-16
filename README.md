@@ -3,6 +3,15 @@
 A **3D OpenGL endless runner** built with **Python + PyOpenGL (GLU / GLUT)**. You're a futuristic runner sprinting down a three-lane skyway — dodging barriers, grabbing coins and magnets, riding a hoverboard, and outrunning a robot guard that hunts you down the moment you slip up.
 
 ---
+## Team Members
+
+| Name | Student ID |
+|---|---|
+| **Md. Tanvirul Islam Rifat** | **22101311** |
+| Fahim Rahman |  |
+| Istiak Al Imran | 22301040 |
+
+---
 
 ## Gameplay
 <p>
@@ -193,9 +202,8 @@ render-rush-3d-endless-runner/
 
 ## Author
 
-**Group 8, Section 24 — CSE423 (Computer Graphics)**
-BRAC University
+**Md. Tanvirul Islam Rifat**
 
-- Md. Tanvirul Islam Rifat
-- Fahimur Rahman
-- Istiak Al Imran
+* **GitHub:** [@tanvirul-islam-rifat](https://github.com/tanvirul-islam-rifat)
+* **LinkedIn:** [Tanvirul Islam Rifat](https://www.linkedin.com/in/tanvirul-islam-rifat)
+
