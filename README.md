@@ -15,7 +15,7 @@ A **3D OpenGL endless runner** built with **Python + PyOpenGL (GLU / GLUT)**. Yo
 
 ## Gameplay
 <p>
-  <img src="./gameplay.gif" alt="Render Rush Gameplay" width="450"/>
+  <img src="./gameplay.mp4" alt="Render Rush Gameplay" width="450"/>
 </p>
 
 You start in the middle lane as the road speeds up beneath you. Obstacles, coins, and magnets spawn ahead in real time — switch lanes, jump, or slide to survive and collect. Hit a barrier and you lose a life *and* trigger a robot chaser that hunts you down the lane, jumping and sliding over its own obstacles just like you do. Lose all 3 lives and it's game over.
